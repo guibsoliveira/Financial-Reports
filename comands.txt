@@ -1,0 +1,23 @@
+python -m venv venv = Crie um ambiente virtual
+
+------------------------------------------------------
+
+venv\Scripts\activate = Ative o ambiente virtual:
+
+------------------------------------------------------
+
+pip install pandas gspread oauth2client =
+
+    - pandas: Para manipulação e análise dos dados dos CSVs.
+
+    - gspread: Para interagir com a API do Google Sheets e atualizar a planilha.
+
+    - oauth2client: Para a autenticação com a conta de serviço do Google.
+
+------------------------------------------------------
+
+pip install jupyterlab = Um ambiente de desenvolvimento interativo que permite abrir notebooks 
+.ipynb, arquivos .py, planilhas .csv, visualizações gráficas, tudo dentro de uma interface única e organizada por abas e painéis.
+Muito usado em ciência de dados, machine learning e análise de dados.
+
+------------------------------------------------------
