@@ -21,3 +21,5 @@ pip install jupyterlab = Um ambiente de desenvolvimento interativo que permite a
 Muito usado em ciência de dados, machine learning e análise de dados.
 
 ------------------------------------------------------
+
+pip freeze > requirements.txt = Crie um Arquivo de Requisitos
