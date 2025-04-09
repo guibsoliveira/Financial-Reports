@@ -6,6 +6,14 @@ venv\Scripts\activate = Ative o ambiente virtual:
 
 ------------------------------------------------------
 
+pip install -r requirements.txt = instala o requirements no meu novo ambiente virtual
+
+------------------------------------------------------
+
+pip freeze > requirements.txt = Crie um Arquivo de Requisitos
+
+------------------------------------------------------
+
 pip install pandas gspread oauth2client =
 
     - pandas: Para manipulação e análise dos dados dos CSVs.
@@ -22,4 +30,19 @@ Muito usado em ciência de dados, machine learning e análise de dados.
 
 ------------------------------------------------------
 
-pip freeze > requirements.txt = Crie um Arquivo de Requisitos
+
+
+COMANDOS DO GIT NO TERMINAL
+---------------------------
+
+git add . = Add the changes
+
+--
+
+git commit -m "Environment configured and libraries installed" = Commit the changes
+
+--
+
+git push = Push to GitHub
+
+------------------------------------------------------
